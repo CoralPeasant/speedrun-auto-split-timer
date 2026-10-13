@@ -1,0 +1,1 @@
+"""Small helpers. No domain logic — if it knows about splits, it belongs elsewhere."""
