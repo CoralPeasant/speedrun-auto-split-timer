@@ -1,0 +1,1 @@
+"""Qt UI layer. Thin — no business logic lives here."""
