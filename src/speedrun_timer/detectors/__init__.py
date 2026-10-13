@@ -1,0 +1,1 @@
+"""Auto-split detectors. One module per game or detector family."""
