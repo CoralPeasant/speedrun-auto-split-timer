@@ -1,0 +1,1 @@
+"""Frame capture adapters. One adapter per backend, uniform interface."""
